@@ -1,0 +1,9 @@
+/Users/eldinhabibovic/Programming/datascience/assignment1/bin/Debug/netcoreapp1.0/assignment1.deps.json
+/Users/eldinhabibovic/Programming/datascience/assignment1/bin/Debug/netcoreapp1.0/assignment1.runtimeconfig.json
+/Users/eldinhabibovic/Programming/datascience/assignment1/bin/Debug/netcoreapp1.0/assignment1.runtimeconfig.dev.json
+/Users/eldinhabibovic/Programming/datascience/assignment1/bin/Debug/netcoreapp1.0/assignment1.dll
+/Users/eldinhabibovic/Programming/datascience/assignment1/bin/Debug/netcoreapp1.0/assignment1.pdb
+/Users/eldinhabibovic/Programming/datascience/assignment1/obj/Debug/netcoreapp1.0/assignment1.AssemblyInfo.cs
+/Users/eldinhabibovic/Programming/datascience/assignment1/obj/Debug/netcoreapp1.0/assignment1.dll
+/Users/eldinhabibovic/Programming/datascience/assignment1/obj/Debug/netcoreapp1.0/assignment1.pdb
+/Users/eldinhabibovic/Programming/datascience/assignment1/obj/Debug/netcoreapp1.0/assignment1.csprojResolveAssemblyReference.cache
